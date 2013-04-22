@@ -237,9 +237,6 @@ OnItemClickListener {
 
     /**
      * Adapter for our image files. 
-     * 
-     * @author Mihai Fonoage
-     *
      */
     class ImageAdapter extends BaseAdapter {
 
