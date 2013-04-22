@@ -33,7 +33,7 @@ public class MainActivity extends Activity implements
 OnItemClickListener {
     
     /**
-     * Grid view holding the images.
+     * Grid view holding the images. 
      */
     private GridView sdcardImages;
     /**
